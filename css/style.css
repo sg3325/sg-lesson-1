@@ -115,11 +115,42 @@ nav li a:active {
 	font-weight: 900;
 }
 
+/* Features */
+
+.features {
+	width: 100%;
+	padding: 100px 0;
+	background-color: #ffffff;	
+}
+
+.features-subhead {
+	text-align: left;
+	margin-left: 60px;
+}
+
+.features-copy {
+	margin-bottom: 20px;
+	margin-left: 60px;
+	text-align: left; 
+}
 
 
-
-
-
-
+.fa-github,
+.fa-html5,
+.fa-wrench,
+.fa-file-pdf,
+.fa-codepen {
+	color: #696969;
+	font-size: 2.5em;
+	margin-bottom: 10px;
+	margin-top: 20px;
+		
+}
+.fa-css3{
+	color: #696969;
+	font-size: 2.3em;
+	margin-bottm: 10px;
+	margin-top: 20px;
+}
 
 
